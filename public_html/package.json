@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "_comment": "sass sass/styles/home.scss style/global.css",
+  "scripts": {
+    "sass": "sass --watch sass:",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
